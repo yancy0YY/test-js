@@ -1,0 +1,19 @@
+{
+  "name": "hilalu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "yang yang",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  }
+}
